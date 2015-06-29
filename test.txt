@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 test 1
 test3
+=======
+test
+>>>>>>> parent of cd10232... aaa
